@@ -106,7 +106,7 @@
                 limpar();
             }
             //diagonais com vencedor X
-            else if (btn10.Text == "X" && btn21.Text == "X  " && btn32.Text == "X")
+            else if (btn10.Text == "X" && btn21.Text == "X" && btn32.Text == "X")
             {
                 DisplayAlert("Você Ganhou", "Parabéns", "Fechar");
                 limpar();
