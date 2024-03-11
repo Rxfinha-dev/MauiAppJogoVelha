@@ -40,6 +40,9 @@
         <Button x:Name="btn31" Grid.Row="3" Grid.Column="1" Text="" Clicked="Button_Clicked"/>
         <Button x:Name="btn32" Grid.Row="3" Grid.Column="2" Text="" Clicked="Button_Clicked"/>
 
+
+        
+
     </Grid>
 
 </ContentPage>
